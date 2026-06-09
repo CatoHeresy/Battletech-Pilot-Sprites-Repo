@@ -23,3 +23,5 @@ To set custom Company Emblems, you will need:
 ... or any other emblem dll mod which loads sprites.
 
 ![image](/Brotherhood_of_Nod/Screenshot2025-12-08051219.jpg)
+
+![image](/Canopian_Catgirls/portraits/Cat27.png)
