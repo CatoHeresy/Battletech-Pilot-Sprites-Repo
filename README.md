@@ -22,6 +22,16 @@ To set custom Company Emblems, you will need:
 
 ... or any other emblem dll mod which loads sprites.
 
-![image](/Brotherhood_of_Nod/Screenshot2025-12-08051219.jpg)
+### Golden Axe
+
+![image](/Golden_Axe/GAexample.png)
+
+### Canopian Catgirls
 
 ![image](/Canopian_Catgirls/Catsp.jpg)
+
+### Brotherhood of NOD
+
+![image](/Brotherhood_of_Nod/Screenshot2025-12-08051219.jpg)
+
+
